@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4fa13d90-e5d4-4234-8502-baaf5a85608a" name="Default" comment="">
+=======
+    <list default="true" id="52acf818-bacf-49a6-969f-7d9eaad0a426" name="Default" comment="">
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,12 +21,9 @@
       <file leaf-file-name="TestRepo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-              <folding>
-                <element signature="e#67#68#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -31,8 +32,13 @@
         <entry file="file://$PROJECT_DIR$/Readme.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< HEAD
               <first_editor relative-caret-position="72">
                 <caret line="4" column="172" lean-forward="false" selection-start-line="4" selection-start-column="172" selection-end-line="4" selection-end-column="172" />
+=======
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,12 +48,8 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +62,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/TestRepo.java" />
+=======
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
         <option value="$PROJECT_DIR$/Readme.MD" />
       </list>
     </option>
@@ -127,10 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,10 +145,19 @@
               <item name="TestRepo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestRepo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestRepo" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,10 +276,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4fa13d90-e5d4-4234-8502-baaf5a85608a" name="Default" comment="" />
-      <created>1547060223243</created>
+      <changelist id="52acf818-bacf-49a6-969f-7d9eaad0a426" name="Default" comment="" />
+      <created>1547062810173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1547060223243</updated>
       <workItem from="1547060228118" duration="1607000" />
     </task>
@@ -278,15 +290,34 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1547064106601</updated>
+=======
+      <updated>1547062810173</updated>
+      <workItem from="1547062813831" duration="66000" />
+    </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1547062849410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547062849410</updated>
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="339" width="1366" height="741" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="66000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -324,8 +355,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="added nothing" />
     <option name="LAST_COMMIT_MESSAGE" value="added nothing" />
+=======
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -334,20 +370,31 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/TestRepo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="36">
           <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
           <folding>
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="72">
             <caret line="4" column="172" lean-forward="false" selection-start-line="4" selection-start-column="172" selection-end-line="4" selection-end-column="172" />
+=======
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+>>>>>>> 41a28df4e4deab18b91faabbec07fec75afd4982
             <folding />
           </first_editor>
           <second_editor />
